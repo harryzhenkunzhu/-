@@ -1,5 +1,15 @@
 # Li Hongling Presentation
 
+## 终版1027 PPT对应讲稿（最新）
+
+对应最终14页PPT重写的15分钟课堂讲稿，含逐页计时与术语提醒。
+
+- [Word讲稿](https://github.com/harryzhenkunzhu/-/raw/refs/heads/main/final_speech_1027/Li_Hongling_Final_Speech_1027.docx)
+- [PDF讲稿](https://github.com/harryzhenkunzhu/-/blob/main/final_speech_1027/Li_Hongling_Final_Speech_1027.pdf)
+- [全部讲稿格式打包](https://github.com/harryzhenkunzhu/-/raw/refs/heads/main/final_speech_1027/Li_Hongling_Final_Speech_1027_All.zip)
+
+---
+
 ## 最新修订版（V2）
 
 按主文献三部分重新组织，沿用朱振坤最新上传模板；增加古文短引及解释，补足有限责任、法律与公司治理分析。
