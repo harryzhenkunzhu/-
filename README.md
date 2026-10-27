@@ -1,5 +1,17 @@
 # Li Hongling Presentation
 
+## 最新修订版（V2）
+
+按主文献三部分重新组织，沿用朱振坤最新上传模板；增加古文短引及解释，补足有限责任、法律与公司治理分析。
+PPT共15页；逐页讲稿按15分钟安排，附9项备答与引文核对。
+
+- [下载新版全部文件（ZIP）](https://github.com/harryzhenkunzhu/-/raw/refs/heads/main/presentation_v2/Li_Hongling_All_Files_V2.zip)
+- [查看新版文件与下载说明](presentation_v2/README.md)
+
+---
+
+## 初版（V1，保留供对照）
+
 货币思想史课堂展示：《李宏龄的票号成败论与近代中国公司制度的缺失》。
 
 PPT含13页正文、2页附录。逐页讲稿按14分40秒安排，附计时、切页提示和备用问答。
